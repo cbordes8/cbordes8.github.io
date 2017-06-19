@@ -25,3 +25,9 @@ h1{border:;
   background-color:;
   text-align: center;
 }
+
+@media only screen and (
+  orientation: landscape) {
+    img {
+      height: 50%;
+      width: 50%;
