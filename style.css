@@ -1,1 +1,27 @@
 body {background:grey}
+
+h1{border:;
+  background-color:black;
+  color: Red;
+  text-shadow:;
+  font-weight: bold;
+  font-variant: Times;
+  font-size: 3em;
+  font-family: Times;
+  padding: 10px;
+  margin: 10px;
+  width: 100%;
+  }
+
+  a:visited {
+    color: red;
+}
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color:;
+  text-align: center;
+}
